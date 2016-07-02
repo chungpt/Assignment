@@ -1,0 +1,68 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PS03893_QuanLyCuaHang
+</name>
+</assembly>
+<members>
+<member name="P:PS03893_QuanLyCuaHang.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PS03893_QuanLyCuaHang.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:PS03893_QuanLyCuaHang.My.Resources.Resources.Actions_dialog_cancel_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PS03893_QuanLyCuaHang.My.Resources.Resources.Actions_trash_empty_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PS03893_QuanLyCuaHang.My.Resources.Resources.Button_Refresh_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PS03893_QuanLyCuaHang.My.Resources.Resources.chart_add_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PS03893_QuanLyCuaHang.My.Resources.Resources.Ok_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PS03893_QuanLyCuaHang.My.Resources.Resources.open_file_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PS03893_QuanLyCuaHang.My.Resources.Resources.Save_as_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PS03893_QuanLyCuaHang.My.Resources.Resources.shopping_cart_accept_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PS03893_QuanLyCuaHang.My.Resources.Resources.Start_Menu_Search_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PS03893_QuanLyCuaHang.My.Resources.Resources.Text_Edit_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PS03893_QuanLyCuaHang.My.Resources.Resources.ung_dung_thiet_bi_ma_vach_vao_thu_vien">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:PS03893_QuanLyCuaHang.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
